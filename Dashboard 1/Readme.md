@@ -16,6 +16,8 @@ Customer ID, Order ID: unique identifiers for tracking
 
 This dataset is ideal for practicing business analytics, key performance indicators (KPIs), dynamic dashboards, and pivot table analysis in Excel or Power Bi.
 
+---
+
 <img width="580" height="330" alt="Dashboard" src="https://github.com/user-attachments/assets/7f3e4dfc-f936-484a-b968-9cd1deb163f5" />
 
 
