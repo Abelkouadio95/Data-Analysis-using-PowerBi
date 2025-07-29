@@ -2,7 +2,7 @@
 In this repository, you will find a collection of data analysis projects using **Power BI**, and occasionally **Python**, **SQL**, and other tools.  
 These projects aim to transform raw data into actionable insights through interactive dashboards and clear visualizations.
 
-## 🔄 Workflow Overview
+# 🔄 Workflow Overview
 Each project generally follows these key steps:
 
 1. **Data Collection**  
