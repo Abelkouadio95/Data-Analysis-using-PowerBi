@@ -1,5 +1,5 @@
 This is the first dashboard in this set of 
-#📦 Dataset – Sample Superstore
+# 📦 Dataset – Sample Superstore
 The project uses the popular Sample - Superstore dataset, a fictional dataset simulating sales transactions from a retail company operating in the United States.
 
 It contains approximately 10,000 rows and includes the following key columns:
