@@ -11,7 +11,7 @@ Each project generally follows these key steps:
 2. **Data Cleaning & Transformation**  
    - Handling missing or inconsistent data  
    - Formatting columns and values  
-   - Using Power Query or Python (Pandas) for preprocessing
+   - Using Power Query for preprocessing
 
 3. **Data Modeling**  
    - Establishing relationships between tables  
