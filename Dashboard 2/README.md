@@ -1,4 +1,4 @@
-# 🎬 Analyse de Données de Films - Dashboard Power BI
+# 🎬 Analyse de Données de Films - Dashboard Power BI ( consultez le fichier rapport_movies.pdf )
 
 ## 📌 Contexte
 
