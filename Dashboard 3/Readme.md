@@ -38,7 +38,6 @@ Ce projet met l’accent sur la **visualisation claire**, la **navigation intuit
 ---
 
 ## 📷 Aperçu
-*(Insérer ici une capture d’écran du dashboard)*
 <img width="574" height="322" alt="Dashboard barre open" src="https://github.com/user-attachments/assets/3bec35de-6dbb-4d59-9f48-8c6e9e8073e5" />
 <img width="575" height="323" alt="Dashboard_barre_close" src="https://github.com/user-attachments/assets/6cee8f11-cf30-49e9-9077-1675ac755b17" />
 <img width="577" height="325" alt="zoom visuel total ventes" src="https://github.com/user-attachments/assets/63c134b6-b726-49eb-af49-51930662d3ae" />
